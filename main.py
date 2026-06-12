@@ -53,6 +53,10 @@ def index():
     return HTMLResponse(content=html_content, status_code=200)
 
 
-@app.post("/present")
-async def give_present(input("プレゼントを入力")):
-    return {"response": f"サーバです。メリークリスマス！ {present}ありがとう。お返しはキャンディーです。"}  # f文字列というPythonの機能を使っている
+@app.post("/horse")
+async def give_horseTicket(horse):
+    rand = random.randrange(2)
+    if rand = 0:
+        return {"response": f"サーバです。{horse}の馬券ですね。多分当たらないとおもいますけど。"}  # f文字列というPythonの機能を使っている
+    else:
+        return {"response": f"サーバです。{horse}の馬券ですね。最高の買い目ですね。"}  # f文字列というPythonの機能を使っている

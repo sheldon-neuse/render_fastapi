@@ -41,7 +41,7 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>Welcome!!</title>
+            <title>Welcome</title>
         </head>
         <body>
             <h1>Hi! How are you?</h1>

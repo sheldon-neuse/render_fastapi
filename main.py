@@ -59,4 +59,4 @@ async def give_horseTicket(horse):
     if rand = 0:
         return {"response": f"サーバです。{horse}の馬券ですね。多分当たらないとおもいますけど。"}  # f文字列というPythonの機能を使っている
     else:
-        return {"response": f"サーバです。{horse}の馬券ですね。最高の買い目ですね。"}  # f文字列というPythonの機能を使っている
+        return {"response": f"サーバです。{horse}の馬券ですね。最高の買い目ですね。"}

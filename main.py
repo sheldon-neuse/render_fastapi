@@ -36,17 +36,20 @@ def omikuji():
 
 ### コードいろいろ... ###
 
+indexCount = 0
+
 @app.get("/index")
 def index():
     html_content = """
     <html>
         <head>
-            <title>Some HTML in here</title>
+            <title>You are {indexCount}th</title>
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
         </body>
     </html>
     """
-    
+    indexCount += 1
+
     return HTMLResponse(content=html_content, status_code=200)

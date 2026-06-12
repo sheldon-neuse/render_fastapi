@@ -56,7 +56,7 @@ def index():
 @app.post("/horse")
 async def give_horseTicket(horse):
     rand = random.randrange(2)
-    if rand = 0:
+    if rand == 0:
         return {"response": f"サーバです。{horse}の馬券ですね。多分当たらないとおもいますけど。"}  # f文字列というPythonの機能を使っている
     else:
         return {"response": f"サーバです。{horse}の馬券ですね。最高の買い目ですね。"}

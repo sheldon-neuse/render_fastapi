@@ -44,9 +44,24 @@ def index():
             <title>Welcome</title>
         </head>
         <body>
-            <h1>Hi! How are you?</h1>
-            <h2>I'm fine thank you and you?<h2>
             <h1>Sをください!!!!!\nお願いします!!!!!<h1>
+            <table border="1">
+                <tr>
+                    <th>馬番</th>
+                    <th>馬名</th>
+                    <th>騎手</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>イクイノックス</td>
+                    <td>ルメール</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+            </table>
         </body>
     </html>
     """

@@ -93,12 +93,12 @@ def index():
                     <td>高杉吏</td>
                 </tr>
                 <tr>
-                    <td style="background-color: yellow; color: white;">9</td>
+                    <td style="background-color: yellow; color: black;">9</td>
                     <td>コスモキュランダ</td>
                     <td>横山武</td>
                 </tr>
                 <tr>
-                    <td style="background-color: yellow; color: white;">10</td>
+                    <td style="background-color: yellow; color: black;">10</td>
                     <td>ジューンテイク</td>
                     <td>松山弘</td>
                 </tr>
@@ -113,32 +113,32 @@ def index():
                     <td>川田将</td>
                 </tr>
                 <tr>
-                    <td style="background-color: orange; color: white;">13</td>
+                    <td style="background-color: orange; color: black;">13</td>
                     <td>シェイクユアハート</td>
                     <td>古川吉</td>
                 </tr>
                 <tr>
-                    <td style="background-color: orange; color: white;">14</td>
+                    <td style="background-color: orange; color: black;">14</td>
                     <td>スティンガーグラス</td>
                     <td>岩田望</td>
                 </tr>
                 <tr>
-                    <td style="background-color: orange color: white;;">15</td>
+                    <td style="background-color: orange; color: black;">15</td>
                     <td>マイユニバース</td>
                     <td>横山典</td>
                 </tr>
                 <tr>
-                    <td style="background-color: pink; color: white;">16</td>
+                    <td style="background-color: pink; color: black;">16</td>
                     <td>メイショウタバル</td>
                     <td>武豊</td>
                 </tr>
                 <tr>
-                    <td style="background-color: pink; color: white;">17</td>
+                    <td style="background-color: pink; color: black;">17</td>
                     <td>レガレイラ</td>
                     <td>C. ル</td>
                 </tr>
                 <tr>
-                    <td style="background-color: pink; color: white;">18</td>
+                    <td style="background-color: pink; color: black;">18</td>
                     <td>ミステリーウェイ</td>
                     <td>松本大</td>
                 </tr>

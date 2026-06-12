@@ -75,72 +75,72 @@ def index():
                 <tr>
                     <td style="background-color: red; color: white;">5</td>
                     <td>クロワデュノール</td>
-                    <td>武豊</td>
+                    <td>北村友一</td>
                 </tr>
                 <tr>
                     <td style="background-color: red; color: white;">6</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>ビザンチンドリーム</td>
+                    <td>西村淳</td>
                 </tr>
                 <tr>
                     <td style="background-color: blue; color: white;">7</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>ファミリータイム</td>
+                    <td>幸英明</td>
                 </tr>
                 <tr>
                     <td style="background-color: blue; color: white;">8</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>タガノデュード</td>
+                    <td>高杉吏</td>
                 </tr>
                 <tr>
                     <td style="background-color: yellow; color: white;">9</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>コスモキュランダ</td>
+                    <td>横山武</td>
                 </tr>
                 <tr>
                     <td style="background-color: yellow; color: white;">10</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>ジューンテイク</td>
+                    <td>松山弘</td>
                 </tr>
                 <tr>
                     <td style="background-color: green; color: white;">11</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>シンエンペラー</td>
+                    <td>坂井瑠</td>
                 </tr>
                 <tr>
                     <td style="background-color: green; color: white;">12</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>マイネルエンペラー</td>
+                    <td>川田将</td>
                 </tr>
                 <tr>
                     <td style="background-color: orange; color: white;">13</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>シェイクユアハート</td>
+                    <td>古川吉</td>
                 </tr>
                 <tr>
                     <td style="background-color: orange; color: white;">14</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>スティンガーグラス</td>
+                    <td>岩田望</td>
                 </tr>
                 <tr>
                     <td style="background-color: orange color: white;;">15</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>マイユニバース</td>
+                    <td>横山典</td>
                 </tr>
                 <tr>
                     <td style="background-color: pink; color: white;">16</td>
-                    <td>ドウデュース</td>
+                    <td>メイショウタバル</td>
                     <td>武豊</td>
                 </tr>
                 <tr>
                     <td style="background-color: pink; color: white;">17</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>レガレイラ</td>
+                    <td>C. ル</td>
                 </tr>
                 <tr>
                     <td style="background-color: pink; color: white;">18</td>
-                    <td>ドウデュース</td>
-                    <td>武豊</td>
+                    <td>ミステリーウェイ</td>
+                    <td>松本大</td>
                 </tr>
             </table>
         </body>

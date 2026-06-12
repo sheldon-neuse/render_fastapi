@@ -34,7 +34,7 @@ def read_item(item_id: int, q: Optional[str] = None):
 @app.get("/omikuji")
 def omikuji():
     omikuji_list = [
-        "大吉",
+        "大吉 - \"大吉！素晴らしい幸運が舞い込むでしょう。\"",
         "中吉",
         "小吉",
         "吉",

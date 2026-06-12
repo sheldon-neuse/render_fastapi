@@ -44,7 +44,8 @@ def index():
             <title>Welcome</title>
         </head>
         <body>
-            <h1>Sをください!!!!!\nお願いします!!!!!<h1>
+            <h1 style="background-color: yellow;">Sをください!!!!!<br>
+            お願いします!!!!!</h1>
             <table border="1">
                 <tr>
                     <th>馬番</th>
@@ -52,12 +53,92 @@ def index():
                     <th>騎手</th>
                 </tr>
                 <tr>
-                    <td>1</td>
+                    <td style="background-color: white;">1</td>
                     <td>イクイノックス</td>
                     <td>ルメール</td>
                 </tr>
                 <tr>
-                    <td>2</td>
+                    <td style="background-color: white;">2</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: black;">3</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: black;">4</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: red;">5</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: red;">6</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: blue;">7</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: blue;">8</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: yellow;">9</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: yellow;">10</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: green;">11</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: green;">12</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: orange;">13</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: orange;">14</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: orange;">15</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: pink;">16</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: pink;">17</td>
+                    <td>ドウデュース</td>
+                    <td>武豊</td>
+                </tr>
+                <tr>
+                    <td style="background-color: pink;">18</td>
                     <td>ドウデュース</td>
                     <td>武豊</td>
                 </tr>
